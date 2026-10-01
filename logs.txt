@@ -1,0 +1,5 @@
+2026-09-30 | LOGIN | tim
+2026-09-28 | FAILED LOGIN | bob
+2026-09-26 | LOGOUT | admin
+2026-09-26 | PASSWORD_CHANGE | admin
+2026-09-25 | LOGIN | admin
